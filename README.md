@@ -6,7 +6,8 @@ PyTorch implementation of Semantic AutoEncoder (SAE).
 
 ### How to Run
 1. git clone https://github.com/hoseong-kim/sae-pytorch.git
-2. Download 'AwA_demo_data.mat'
+2. Download 'awa_demo_data.mat'      
+      * https://drive.google.com/file/d/1l0UVhhIU-SmtJ9hqk7OVOG9zNga9qt_I/view
 3. python sae.py
 
 ### An Implementation of SAE in PyTorch
